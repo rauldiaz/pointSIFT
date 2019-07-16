@@ -1,5 +1,5 @@
 #/bin/bash
-CUDA_PATH=/usr/local/cuda-10.0
+CUDA_PATH=/usr/local/cuda
 TF_PATH=~/miniconda3/envs/point-sift/lib/python3.6/site-packages/tensorflow
 INCLUDE_PATH=$TF_PATH/include
 
